@@ -1,1 +1,10 @@
-Ready to test
+class main
+{
+  public static void main(String[]args)
+  {
+    public void test()
+    {
+    System.out.println("Hello,This is a test method")
+    }
+  }
+}
